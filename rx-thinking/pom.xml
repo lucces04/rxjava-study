@@ -43,13 +43,9 @@
 
         <dependency>
             <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
+            <artifactId>slf4j-simple</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>ch.qos.logback</groupId>
-            <artifactId>logback-classic</artifactId>
-        </dependency>
         <!-- 如果需要其他特定依赖可以在这里添加 -->
     </dependencies>
 
