@@ -96,9 +96,9 @@ public class CoreComponentStudy {
             }
         };
 
-        customObservable.subscribe(ObserverBuilder.create());
-        stringObservable.subscribe(ObserverBuilder.create());
-        intObservable.subscribe(ObserverBuilder.create());
+//        customObservable.subscribe(ObserverBuilder.create());
+//        stringObservable.subscribe(ObserverBuilder.create());
+//        intObservable.subscribe(ObserverBuilder.create());
         // ==============================
         // 3. Operators - 操作符（数据转换和处理）
         // ==============================
